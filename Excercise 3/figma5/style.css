@@ -1,0 +1,272 @@
+.Background{
+  position: absolute;
+  object-fit: cover;
+  width: 99%;
+  height: 800px;
+  
+}
+
+.logo{
+  display: flex;
+  /* justify-content: space-between; */
+  margin-left: -5%;
+}
+
+.back-ground{
+    width: 100%;
+    height: 710px;
+}
+
+.navBar{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 90%;
+  height: 103px;
+}
+
+.class-id{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2%;
+  padding-right: 80px;
+
+}
+
+#Educlass{
+  size: 23;
+  margin-left: 30px;
+  padding-top: 10px;
+}
+#home-logo{
+  width: 60px;
+  height: 40px;
+  padding-top: 35px;
+  padding-right: 20px;
+  padding-left: 40px;
+}
+
+.Home{
+  font-weight: bold;
+  padding-right: 40px;
+}
+
+#About{
+  padding-right: 40px;
+}
+
+#Features{
+  padding-right: 40px;
+}
+
+#Pricing{
+  padding-right: 40px;
+}
+
+.Contact-us{
+  border-radius: 15px;
+  height: 40px;
+  width: 90px;
+  margin-top: 2%;
+  background-color: rgb(21, 108, 214);
+  border: none;
+  color: white;
+}
+
+.firstMainContainer{
+  position: relative;
+}
+
+.firstDiv{
+  padding-left: 4%;
+  padding-right: 12%;
+}
+
+#modern{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#education{
+  color: rgb(21, 108, 214);
+}
+
+.showcase{
+  color: rgb(95, 99, 104);
+  font-size: large;
+  margin-top: -3%;
+  font-weight: 18px;
+}
+
+#free{
+  color: white;
+  border: none;
+  border-radius: 50px;
+  background-color: rgb(21, 108, 214);
+  width: 180px;
+  height: 90px;
+  margin-right: 3%;
+}
+
+.last-div{
+  display: flex;
+}
+
+#view-demo{
+  padding-left: 20px;
+  color: rgb(69, 69, 94);
+  font-size: 25px;
+  font-weight: 100;
+}
+
+
+#Group-14320{
+width: 25px;
+height:40px;
+margin-top: 2%;
+}
+.mainDiv{
+  display: flex;
+}
+
+#dasboardsImage{
+  width: 730px;
+  height: 900px;
+  margin-left: 45px;
+}
+
+.empower-student{
+  font-size: 45px;
+  font-weight: bolder;
+}
+
+#listOfWords{
+  color: rgb(121, 118, 118);
+  margin-top: -25px;
+}
+
+.school-user-cities{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  height: 80px;
+}
+
+#imageSchool{
+    height: 50px;
+    padding-top: 2.5%;
+}
+
+#number{
+  color: rgb(21, 108, 214);
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+#nameFont{
+  font-size: larger;  
+  margin-top: -25px;
+}
+
+#buttonLearnMore{
+  color: white;
+  background-color:  rgb(21, 108, 214);;
+  border: none;
+  border-radius: 55px;
+  width: 120px;
+  height: 60px;
+  margin-top: 20px;
+}
+
+.mainClassEmpower{
+  padding-left: 4%;
+}
+
+.classEmpower{
+  display: flex;
+}
+
+.image-blank{
+  margin-left: 235px;
+}
+
+#our-main{
+  font-size: 35px;
+  font-weight: bold;
+  padding-left: 35%;
+}
+
+#word1{
+  padding-left: 28%;
+  margin-top: -1%;
+  color: rgb(121, 118, 118);
+}
+
+#word2{
+  padding-left: 26.8%;
+  margin-top: -0.8%;
+  color: rgb(121, 118, 118);
+}
+
+.secondMainContaner{
+  display: flex;
+}
+
+#arrowDiv{
+  display: flex;
+}
+
+#schedule{
+  color: goldenrod;
+  font-weight: bold;
+  margin-top: 15%;
+}
+#easily{
+  font-size:35px;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+#french{
+  color: rgb(121, 118, 118);
+  margin-top: -1.2%;
+}
+
+#discover{
+  color: rgb(21, 108, 214);
+  margin-top: 1px;
+}
+
+#arrow{
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
+
+.schedule-id{
+  padding-left: 20%;
+}
+
+.secondMainContaner{
+  margin-left: 7%;
+}
+
+.thirdMainContainer{
+  display: flex;
+}
+
+
+.ANALYTICS{
+  color: goldenrod;
+  font-weight: bold;
+  margin-top: 15%;
+}
+
+.Organize{
+  font-size:40px;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+

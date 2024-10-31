@@ -1,0 +1,45 @@
+.ul li{
+  list-style: none;
+}
+
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+  align-items: center;
+}
+
+.navBarWrapper{
+  background-color: blue;
+}
+
+ul{
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}
+
+#search{
+  width: 400px;
+  height: 40px;
+  margin: 10px 0px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.search{
+  width: 400px;
+  margin: auto;
+}
+
+.images{
+  width: 90%;
+  margin: auto;
+
+}
+
+.images img{
+  width: 390px;
+  height: 500px;
+}
